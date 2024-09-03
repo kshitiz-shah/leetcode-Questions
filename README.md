@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
