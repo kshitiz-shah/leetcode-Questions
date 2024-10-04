@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
