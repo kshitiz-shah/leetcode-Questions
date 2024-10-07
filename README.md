@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
