@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
 ## Bit Manipulation
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
