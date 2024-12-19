@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -171,8 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
