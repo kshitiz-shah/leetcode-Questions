@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
