@@ -1,38 +1,44 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int k = lists.size();
-        if (k == 0) return nullptr; // If no linked lists, return nullptr
 
-        // Min-heap to store all values in sorted order
-        priority_queue<int, vector<int>, greater<int>> minheap;
+        priority_queue <int , vector<int> , greater<int>> minheap ;
 
-        // Populate the min-heap with values from all linked lists
-        for (int i = 0; i < k; i++) {
-            while (lists[i] != NULL) {
-                minheap.push(lists[i]->val);
-                lists[i] = lists[i]->next;
+        for(int i=0;i< lists.size();i++){
+            ListNode* current = lists[i];
+
+            while(current != nullptr){
+                minheap.push(current->val);
+                current = current->next;
             }
+
         }
 
-        // If the heap is empty, return nullptr
-        if (minheap.empty()) return nullptr;
+        ListNode* head=  new ListNode(-1);
+        ListNode* temp = head;
 
-        // Create the merged linked list
-        int x = minheap.top();
-        minheap.pop();
-        ListNode* head = new ListNode(x); // Head of the merged list
-        ListNode* curr = head;
-
-        // Build the rest of the merged list from the heap
-        while (!minheap.empty()) {
-            int temp = minheap.top();
+        while(!minheap.empty()){
+            int x = minheap.top();
             minheap.pop();
-            ListNode* mover = new ListNode(temp);
-            curr->next = mover;
-            curr = curr->next;
+            ListNode* mover = new ListNode(x);
+            temp->next = mover;
+            temp =mover ;
+
+
+
         }
 
-        return head;
+        return head->next;
+        
     }
 };
