@@ -1,31 +1,39 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
+
+        int i = 1 ;
+        int sum =1;
+
         int n = ratings.size();
-        vector<int> candycount(n, 1);
 
-        candycount[0]=1;
+        while(i<n){
 
-        for(int i = 1 ;i< ratings.size();i++){
-            if(ratings[i] > ratings[i-1]){
-                candycount[i] = (candycount[i-1] +1) ;
-
+            if(ratings[i] == ratings[i-1]){
+                sum++;
+                i++;
+                continue ;
             }
-            
-        }
 
-        int sum = candycount[ratings.size()-1] ;
-        
-        for(int i = ratings.size()-2 ; i>= 0 ;i--){
-            if(ratings[i] > ratings[i+1]){
-                candycount[i] =  max(candycount[i] ,(candycount[i+1] +1) );
-              
+            int peak =1 ;
 
+            while(i<n && ratings[i] > ratings[i-1]){
+                peak++ ;
+                sum += peak ;
+                i++;
             }
-              sum += candycount[i];
-        }
+            int down =1;
 
-    return sum;
-        
+            while(i<n && ratings[i] < ratings[i-1]){
+              sum += down ;
+              down++;
+              i++;
+           
+            }
+            if(down >peak){
+                sum += (down-peak);
+            }
+        }
+          return sum ;
     }
 };
