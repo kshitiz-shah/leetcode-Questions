@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Divide and Conquer
