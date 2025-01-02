@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0069-sqrtx) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
