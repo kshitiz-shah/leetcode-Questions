@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2358-number-of-ways-to-split-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3195-separate-black-and-white-balls](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
