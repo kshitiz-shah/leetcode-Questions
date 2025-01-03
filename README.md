@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1894-merge-strings-alternately) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1063-best-sightseeing-pair](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1063-best-sightseeing-pair) |
 ## Greedy
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
