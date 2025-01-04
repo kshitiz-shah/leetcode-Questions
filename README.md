@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0040-combination-sum-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0135-candy) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
