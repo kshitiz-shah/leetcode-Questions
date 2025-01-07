@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Linked List
 |  |
