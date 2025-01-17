@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0907-koko-eating-bananas](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1036-rotting-oranges) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2428-equal-row-and-column-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2470-removing-stars-from-a-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2470-removing-stars-from-a-string) |
