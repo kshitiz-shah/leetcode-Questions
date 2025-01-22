@@ -185,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -208,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0547-number-of-provinces) |
