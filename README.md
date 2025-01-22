@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0801-is-graph-bipartite) |
+| [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
