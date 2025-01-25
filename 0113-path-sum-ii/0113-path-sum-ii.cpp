@@ -24,14 +24,16 @@ public:
     void dfs(TreeNode* root, int targetSum , vector<vector<int>> &ans , vector<int> temp  ){
 
         if(root == nullptr) return;
+        temp.push_back(root->val);
 
         if(root->left == nullptr && root->right == nullptr && targetSum == root->val){
-            temp.push_back(root->val);
+           
             ans.push_back(temp);
             return;
         }
-       temp.push_back(root->val);
+       
         dfs(root->left , targetSum - root->val , ans , temp);
+       
         dfs(root->right , targetSum - root->val , ans , temp);
 
 
