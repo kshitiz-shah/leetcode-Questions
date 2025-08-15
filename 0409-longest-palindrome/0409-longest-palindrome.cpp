@@ -3,29 +3,27 @@ public:
     int longestPalindrome(string s) {
 
         unordered_map < char , int > freq ;
-        int result = 0;
+        int oddfreq = 0;
 
         for(int i = 0 ;i< s.size();i++){
             freq[s[i]]++;
 
-        }
-        bool center = false;
-        for( auto x : freq){
-            if((x.second % 2) == 0){
-                result += x.second ;
+            if((freq[s[i]] % 2) == 1){
+                oddfreq++;
             }
-            else{
-                result +=  x.second -1 ;
-               center =true ;
-            
-            }
+           else{
+            oddfreq-- ;
+           }
+
+
         }
-
-        if(center == true) return result +1 ;
-
-        return  result ;
-
-        
+        if(oddfreq > 0){
+            return s.size()- oddfreq + 1 ;
+        }
+        else{
+            return s.size();
+        }
+       
      
 
     }
