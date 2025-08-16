@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
