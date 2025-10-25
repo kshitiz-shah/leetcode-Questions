@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
