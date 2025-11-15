@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
 | [1319-unique-number-of-occurrences](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1580-shuffle-the-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2169-simple-bank-system](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2169-simple-bank-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2428-equal-row-and-column-pairs) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2169-simple-bank-system) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
