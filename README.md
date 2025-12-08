@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1925-count-square-sum-triples) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
@@ -395,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
