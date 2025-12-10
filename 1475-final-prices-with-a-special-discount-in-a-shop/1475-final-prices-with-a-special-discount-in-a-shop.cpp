@@ -2,36 +2,26 @@ class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {
 
-        stack <int> st;
-        int n = prices.size() -1 ;
+        int n = prices.size();
+        vector<int> ans = prices;
+        stack<int> st;
 
+        for (int i = n - 1; i >= 0; i--) {
 
-        for(int i =  n ; i >= 0 ;i--){
-
-            if(st.empty()){
-                prices[i] = prices[i];
-                st.push(prices[i]);
-            }
-            else{
-                while( (!st.empty())  &&  st.top() > prices[i] ){
-                    st.pop();
-
-                }
-                 if(st.empty()){
-                prices[i] = prices[i];
-                st.push(prices[i]);
-            }
-            else{
-                int x = prices[i];
-                prices[i]= prices[i] - st.top();
-                st.push(x);
-
+            // Remove elements that cannot be discounts
+            while (!st.empty() && st.top() > prices[i]) {
+                st.pop();
             }
 
+            // Now stack top is the discount (if any)
+            if (!st.empty()) {
+                ans[i] -= st.top();
             }
 
-
+            // Push current price for next iterations
+            st.push(prices[i]);
         }
-        return prices ;
+
+        return ans;
     }
 };
