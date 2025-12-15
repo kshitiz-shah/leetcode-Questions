@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [2169-simple-bank-system](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2169-simple-bank-system) |
 ## Counting Sort
 |  |
