@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
