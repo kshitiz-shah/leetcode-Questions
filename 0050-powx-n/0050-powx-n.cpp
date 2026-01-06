@@ -1,28 +1,26 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        //your code goes here
-       
-      
-      if(n<0){
-       return  (1.0/findpower(x , -(long long)n ));
+
+       long long num = n; 
+       if(num < 0) num = -num ;
+       double ans = 1;
+
+      while(num > 0){
+
+        if( num % 2 == 0){
+            x *= x;
+             num /=2 ;
+        }else{
+            ans *= x ;
+            num--;
+        }
 
       }
+      if(n <0)return (1/ans);
+      return ans ;
+
+
         
-return findpower(x,n);
     }
-
-private:
-  double findpower(double x , long long n){
-    if(n==0)return 1.0;
-    if(n==1)return x;
-
-    if( n% 2 == 1){
-    return  x* findpower(x*x , n/2);
-    }
-    else{
-     return  findpower(x*x , n/2);
-    }
-
-  }
 };
