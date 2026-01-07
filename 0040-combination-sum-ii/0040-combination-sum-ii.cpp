@@ -1,50 +1,47 @@
 class Solution {
 public:
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-       
-       //to store the temp 1-D array 
-        vector<int> temp ;
-     // to store the final answer
-      vector<vector<int>> ans;
+    vector<vector<int> > combinationSum2(vector<int>& candidates, int target) {
+        //your code goes here
 
-      //sorting the candidates for skipping the duplicates;
+        sort(candidates.begin() , candidates.end());
+        vector<vector<int> > ans ;
+        vector <int> temp ;
 
-      sort(candidates.begin() , candidates.end());
-      
-        helper(0 , candidates, target , temp , ans );
+        helper(0 , candidates , target , ans , temp);
 
-        return ans;
-        
-        
+        return ans ;
+
+           
     }
 
-    void helper(int ind , vector <int> &candidates , int target , vector <int> &temp , vector <vector <int>> &ans){
+    void helper(int i , vector<int>& candidates, int target ,  vector<vector<int> > &ans, vector <int> temp){
 
         if(target == 0){
             ans.push_back(temp);
+            return;
+        }
+
+        if(i == candidates.size() || target < 0){
             return ;
         }
 
-        if(  ind == candidates.size() || target < 0)return ;
+        temp.push_back(candidates[i]);
+       helper(i + 1 , candidates , target- candidates[i] , ans , temp);
+       temp.pop_back();
 
-      for(int i =ind +1 ;i < candidates.size();i++){
-        if(candidates[i] != candidates[ind]){
-              helper(i, candidates, target , temp , ans);
-              break;
-
-
+        while(i+1 < candidates.size() && candidates[i] == candidates[i+1]){
+            i++;
         }
 
+        helper(i + 1 , candidates , target , ans , temp);
+
+
+      
+
        
-      }
-        
 
 
-        temp.push_back(candidates[ind]);
-         helper(ind +1, candidates, target - candidates[ind] , temp , ans);
-         temp.pop_back() ;
 
-         
 
 
 
