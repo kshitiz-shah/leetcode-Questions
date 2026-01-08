@@ -2,32 +2,33 @@ class Solution {
 public:
     vector<string> letterCombinations(string digits) {
 
-        if(digits.size() == 0) return {};
+         vector <string> keys = { "" , "" , "abc" ,"def","ghi" , "jkl" ,"mno","pqrs" ,"tuv" , "wxyz"};
 
-       vector <string> keys = {"" , "","abc" ,"def","ghi" ,"jkl" ,"mno","pqrs","tuv","wxyz"};
+         vector <string> ans ;
+         string temp ;
 
-       string temp = "" ;
-       vector <string> ans ;
+         helper(0 , keys , ans , temp , digits);
 
-       helper(0 , keys ,temp ,ans ,digits);
-       return ans;
+         return ans ;
+
         
     }
 
-    void helper( int ind , vector <string> keys ,  string temp ,vector <string> &ans , string digits){
+    void helper(int ind , vector <string> keys ,   vector <string> &ans , string temp , string digits){
 
-    if(ind  == digits.size()){
+      if(ind == digits.size()){
         ans.push_back(temp);
-        return;
+        return ;
+      }
+
+      int digit = digits[ind] - '0';
+
+      for(int i = 0 ;i < keys[digit].size(); i++ ){
+
+         helper(ind + 1, keys , ans , temp + keys[digit][i], digits);
+
+      }
+
+
     }
-
-    int num = digits[ind] -'0';
-
-    for(int i = 0 ;i< keys[num].size() ; i++){
-         helper(ind + 1 , keys ,temp  +  keys[num][i],ans ,digits);
-
-    }
-
-    }
-
 };
