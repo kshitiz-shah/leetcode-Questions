@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0090-subsets-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0131-palindrome-partitioning) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0112-path-sum) |
