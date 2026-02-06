@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
 | ------- |
