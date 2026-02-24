@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1073-number-of-enclaves](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
