@@ -1,24 +1,22 @@
 class Solution {
 public:
     int sumRootToLeaf(TreeNode* root) {
-        int sum = 0;
-        dfs(root, sum, "");
-        return sum;
+        return dfs(root, 0);
     }
 
-    void dfs(TreeNode* root, int &sum, string str) {
-        if (root == nullptr) return;
+    int dfs(TreeNode* root, int current) {
+        if (!root) return 0;
 
-        str += (root->val + '0');
-
-        
-        if (root->left == nullptr && root->right == nullptr) {
-            int decimal = stoi(str, nullptr, 2);
-            sum += decimal;
-            return;
+       
+        current = current * 2 + root->val;
+        if (!root->left && !root->right)
+        {
+            
+             return current;
         }
+           
 
-        dfs(root->left, sum, str);
-        dfs(root->right, sum, str);
+        return dfs(root->left, current) +
+               dfs(root->right, current);
     }
 };
