@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0645-set-mismatch) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
