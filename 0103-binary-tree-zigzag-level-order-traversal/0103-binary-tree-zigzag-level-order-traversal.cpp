@@ -15,41 +15,38 @@ public:
 
         vector <vector<int>> ans ;
 
-        if(root == nullptr)return ans ;
+        if(root == nullptr)return ans;
 
-        queue <TreeNode*> q;
+        queue <TreeNode*> q ;
         q.push(root);
-        bool flag= true ;
+        bool lefttoright = true ;
 
         while(!q.empty()){
+
             int levelsize = q.size();
-            vector<int> level ;
+            vector <int> level(levelsize);
 
-            
-
-            for(int i = 0 ; i < levelsize ;i++){
-                TreeNode* node = q.front();
+            for(int i =  0 ; i < levelsize ;i++){
+                TreeNode* node = q.front() ;
                 q.pop();
-               
-                    if(node->left != nullptr)q.push(node->left);
-                if(node->right != nullptr)q.push(node->right);
- 
-                level.push_back(node->val);
-               
 
-            }
-            if(flag == true){
-              flag = false;
-            }
-            else{
-                reverse(level.begin(),level.end());
-                flag = true ;
-                
+                if(node->left != nullptr)q.push(node->left);
+                if(node->right != nullptr)q.push(node->right);
+
+                int index = lefttoright? i : levelsize - i -1 ;
+                level[index] = node->val ;
             }
             ans.push_back(level);
+            lefttoright = !lefttoright ;
+
+
+
+
 
         }
-        return ans;
+        return ans ;
+
+        
         
     }
 };
