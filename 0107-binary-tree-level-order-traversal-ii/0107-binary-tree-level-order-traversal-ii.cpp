@@ -34,14 +34,14 @@ public:
 
                 
             }
-            ans.push_back(level);
+            ans.insert(ans.begin(), level);
 
             
 
 
 
         }
-        reverse(ans.begin(),ans.end());
+        // reverse(ans.begin(),ans.end());
 
         return ans;
 
