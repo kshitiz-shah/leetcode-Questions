@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
@@ -499,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1925-count-square-sum-triples) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
