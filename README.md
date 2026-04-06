@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0551-student-attendance-record-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
