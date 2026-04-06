@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0645-set-mismatch) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
