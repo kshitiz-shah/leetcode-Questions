@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0053-maximum-subarray) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0055-jump-game) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
