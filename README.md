@@ -530,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1037-valid-boomerang) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
