@@ -1,40 +1,46 @@
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int row =  grid.size();
-        int col = grid[0].size();
 
-        vector<vector<int>> vis(row , vector <int> (col , 0));
-        int count =0;
+        int r = grid.size();
+        int c = grid[0].size();
+        int ans = 0 ;
+        vector < vector <bool>>vis(r , vector <bool>(c,false));
 
-        for(int i=0;i< row;i++){
-            for(int j= 0;j< col ;j++){
-              if(grid[i][j] == '1' && vis [i][j] == 0){
-                count++ ;
+        for(int i  = 0 ; i < r ; i++){
+            for(int j = 0 ; j< c ;j++){
+                if(grid[i][j] == '1' && vis[i][j] == 0){
+                    ans++;
+                        dfs(i , j  , grid , vis);
+                }
 
-                dfs(i , j , grid , vis);
-              }
+               
             }
         }
 
-      return count;  
+
+        return ans ;
+
+        
     }
-    void dfs(int r , int c , vector<vector<char>>& grid ,vector<vector<int>> &vis){
 
-        int rows = grid.size();
-        int cols = grid[0].size();
+    void dfs( int r ,int c ,vector<vector<char>>& grid , vector<vector<bool>> &vis){
 
-        if( r < 0 || r >= rows || c < 0 || c >= cols || grid[r][c] == '0' || vis[r][c] == 1){
-            return ;
-
-        }
-        vis[r][c] =1 ;
-// checking in all the 4 directions
-        dfs(r -1 , c ,grid ,vis);
-        dfs(r + 1, c ,grid ,vis);
-        dfs(r  , c-1,grid ,vis);
-        dfs(r , c + 1,grid ,vis);
+        int row = grid.size();
+        int col = grid[0].size();
 
 
+        if(r >= row || c >= col || c < 0 || r < 0 || grid[r][c] == '0' || vis[r][c]== true)return ;
+
+        vis[r][c] = true ;
+
+         dfs(r + 1, c  , grid , vis);
+         dfs(r - 1, c  , grid , vis);
+         dfs(r , c + 1  , grid , vis);
+         dfs(r , c - 1  , grid , vis);
+         return ;
+
+
+           
     }
 };
