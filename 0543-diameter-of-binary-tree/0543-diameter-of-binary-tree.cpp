@@ -12,31 +12,25 @@
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-       int ans = 0 ;
-        dfs(root , ans);
-     return ans ;  
-    }
-
-    void dfs(TreeNode* root , int & ans){
-
-        if(root == nullptr)return ;
         
-        int left =  maxdepth(root->left , 0);
-        int right = maxdepth(root->right , 0);
+         int ans = 0 ;
+        diameter(root , ans) ;
+        return ans ;
+            }
 
-      ans = max(ans ,left + right);
-        dfs(root->left, ans);
-        dfs(root->right, ans);
+            int diameter(TreeNode* root , int &ans){
+             
+             if(root == nullptr)return 0;
 
-    }
+             int left = diameter(root->left , ans);
+             int right = diameter(root->right , ans);
 
-    int maxdepth( TreeNode* root , int idx){
-        if(root == nullptr)return 0 ;
+             ans = max(ans , left + right);
 
-        int left =  maxdepth(root->left , idx );
-        int right = maxdepth(root->right , idx);
+             return  1 +  max( left , right);
 
-        return 1 + max(left , right);
 
-    }
+            }
+
+
 };
