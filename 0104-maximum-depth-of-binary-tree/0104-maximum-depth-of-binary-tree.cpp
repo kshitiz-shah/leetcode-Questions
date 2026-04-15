@@ -12,22 +12,12 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
+        if(root == nullptr)return  0 ;
 
-        int ans = 0 ;
+        int left =  maxDepth(root->left);
+        int right = maxDepth(root->right);
 
-        func(ans , root , 0);
-
-        return ans;
-        
-    }
-
-    void func( int &ans , TreeNode* root , int i){
-        if(root == nullptr){
-            ans = max(i , ans);
-            return ;
-        }
-
-        func(ans , root->left , i +1);
-        func(ans, root->right , i+1);
+        return 1 + max(left ,right);
+      
     }
 };
