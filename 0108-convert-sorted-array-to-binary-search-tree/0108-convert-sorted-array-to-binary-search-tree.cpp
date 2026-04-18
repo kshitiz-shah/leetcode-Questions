@@ -13,23 +13,27 @@ class Solution {
 public:
     TreeNode* sortedArrayToBST(vector<int>& nums) {
 
-      return helper(0 , nums.size()-1 , nums);
-     
+     return  helper( 0 , nums , nums.size()-1);
+
+       
+        
     }
 
-    TreeNode* helper(int left , int right , vector <int> & nums){
+    TreeNode* helper(int left , vector <int> &nums , int right){
 
-        if (left > right)return nullptr ;
 
-        int mid = left + (right - left) / 2 ;
+    if(left > right)return nullptr;
 
-        TreeNode*  node =  new TreeNode(nums[mid]);
-        node->left =  helper(left , mid -1 , nums);
-        node->right = helper(mid +1 , right , nums);
+    int mid = left + (right - left)/2 ;
 
-        return node ;
+    TreeNode* root =  new TreeNode(nums[mid]);
 
+    root->left =  helper(left , nums, mid-1);
+    root->right = helper(mid + 1 , nums , right);
+
+     return root ;
     }
+
 
 
 };
