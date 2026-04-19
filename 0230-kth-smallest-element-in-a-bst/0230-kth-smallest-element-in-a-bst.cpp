@@ -13,31 +13,29 @@ class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
 
-      
-      int ans = 0 ;
-      findSmallest(root  , k , ans);
+        if(!root) return -1;
 
-      return ans ;
+       TreeNode* curr =  helper(root , k  );
 
-
+       return curr->val ;
 
         
     }
 
-    void findSmallest(TreeNode* root , int &k , int &ans){
+    TreeNode* helper(TreeNode* root , int &k){
 
-        if(!root)return  ;
+        if(!root)return nullptr ;
 
-       
-       findSmallest(root->left  , k , ans) ;
+        TreeNode* left = helper(root->left , k);
 
-       if(--k == 0 ){
-        ans = root->val ;
-        return ;
-       }
+        if( left != nullptr )return left ;
+
+        if((--k) == 0){
+            return root ;
+        }
          
+         return helper(root->right , k );
 
-        findSmallest(root->right , k , ans);
-        
+
     }
 };
