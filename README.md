@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0605-can-place-flowers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3195-separate-black-and-white-balls](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
