@@ -12,27 +12,26 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
+        if(!root)return false ;
+        int sum =  0 ;
 
-        if(root == nullptr)return false;
+      return  helper(root , targetSum ,sum);
 
-       return(dfs(root , targetSum) );
-          
-       
-      
         
     }
-    bool dfs(TreeNode* root, int targetsum){
-         if(root == nullptr) return false ;
+
+    bool helper(TreeNode* root , int targetSum , int ans){
        
-       if(root->left == nullptr && root->right == nullptr)  return targetsum == root->val ;
-      
-       
+        if(!root) return  false ;
+        if(ans == (targetSum- root->val)&& (root->left == nullptr && root->right == nullptr)){
+            return true ;
+        }
         
 
-       return(dfs(root->left , targetsum - root->val)  ||  dfs(root->right , targetsum - root->val)) ;
-     
+       return ( helper(root->left , targetSum , ans + root->val) ||  helper(root->right , targetSum , ans + root->val));
+       
 
-        
-
+  
     }
+    
 };
