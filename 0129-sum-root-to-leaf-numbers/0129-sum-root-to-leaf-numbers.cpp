@@ -13,42 +13,28 @@ class Solution {
 public:
     int sumNumbers(TreeNode* root) {
 
-        if(!root)return  0 ;
+        int sum = 0;
+      return  dfs(root , sum);
 
-        int ans =  0 ;
-       string  pathsum = "" ;
-
-        sumnumbers(root , ans , pathsum);
-
-        return ans ;
-     
+       
+        
     }
 
-     void sumnumbers(TreeNode* root , int &ans, string pathsum){
+    int dfs(TreeNode* root , int  sum){
 
-        if(!root )return ;
+       if(!root)return 0 ;
 
-      char x = root->val + '0';
-        pathsum += x ;
+       sum = sum * 10 + root->val ;
 
-        if(root->left == nullptr && root->right == nullptr){
-        
-         ans += stoi(pathsum);
-         return;
-
-        }
+       if(root->left == nullptr && root->right == nullptr){
+        return sum ;
+       }
 
 
 
+        return dfs(root->left , sum ) + dfs(root->right ,sum);
 
-        sumnumbers(root->left , ans ,pathsum);
-        sumnumbers(root->right , ans, pathsum);
-
-
-
-
-
-     }
+    }
 
 
 };
