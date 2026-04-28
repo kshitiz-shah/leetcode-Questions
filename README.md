@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [1037-valid-boomerang](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1037-valid-boomerang) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0171-excel-sheet-column-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0392-is-subsequence) |
