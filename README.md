@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
