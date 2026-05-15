@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0216-combination-sum-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
