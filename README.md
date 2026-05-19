@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2540-minimum-common-value](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2428-equal-row-and-column-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2428-equal-row-and-column-pairs) |
+| [2540-minimum-common-value](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2784-check-if-array-is-good) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
