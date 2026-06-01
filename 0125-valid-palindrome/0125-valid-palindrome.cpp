@@ -5,14 +5,14 @@ public:
         string container = "";
 
         for(char c : s){
-            int x = c;
-            if(x >= 65 && x <= 90  ){
+            
+            if(c >= 'A' && c <= 'Z'  ){
                 container += tolower(c);
             }
-            else if (x >= 97 && x <= 122){
+            else if (c >= 'a' && c <= 'z'){
                 container += c;
             }
-            else if(x >= 48 && x <= 57){
+            else if(c >= '0' && c <= '9'){
                 container += c;
 
             }
