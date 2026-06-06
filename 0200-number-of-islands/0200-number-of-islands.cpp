@@ -2,45 +2,44 @@ class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
 
-        int r = grid.size();
-        int c = grid[0].size();
-        int ans = 0 ;
-        vector < vector <bool>>vis(r , vector <bool>(c,false));
+        int row = grid.size();
+        int col = grid[0].size();
+       vector<vector<int>> check(row, vector<int>(col, 0));
+        int count = 0 ;
 
-        for(int i  = 0 ; i < r ; i++){
-            for(int j = 0 ; j< c ;j++){
-                if(grid[i][j] == '1' && vis[i][j] == 0){
-                    ans++;
-                        dfs(i , j  , grid , vis);
-                }
+        for(int i = 0 ;i < row;i++){
+            for(int j = 0 ; j< col;j++){
 
-               
+                if(check[i][j] == 0 && grid[i][j] == '1'){
+                    count++;
+                      solve(i ,j ,row ,col , check ,grid );
+
+                }          
+
             }
         }
 
+        return count;
 
-        return ans ;
-
+    
         
     }
+    void solve(int i ,int j ,int row  , int col , vector<vector<int >>& check , vector<vector<char >>&grid ){
 
-    void dfs( int r ,int c ,vector<vector<char>>& grid , vector<vector<bool>> &vis){
+       if(i < 0 || j < 0 || i >= row || j >= col || grid[i][j] == '0' || check[i][j] ==1)return ;
 
-        int row = grid.size();
-        int col = grid[0].size();
+        check[i][j] = 1 ;
 
+        solve(i +1, j ,row ,col , check ,grid );
+        solve(i -1, j ,row ,col , check ,grid );
+        solve(i , j  +1 ,row ,col , check ,grid );
+         solve(i , j   -1 ,row ,col , check ,grid );
 
-        if(r >= row || c >= col || c < 0 || r < 0 || grid[r][c] == '0' || vis[r][c]== true)return ;
-
-        vis[r][c] = true ;
-
-         dfs(r + 1, c  , grid , vis);
-         dfs(r - 1, c  , grid , vis);
-         dfs(r , c + 1  , grid , vis);
-         dfs(r , c - 1  , grid , vis);
          return ;
 
 
-           
+
+
+
     }
 };
