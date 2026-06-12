@@ -6,18 +6,22 @@ public:
             sum += x ;
         }
         int n = nums.size();
+        vector <vector <int>> dp(n+1 , vector <int>(sum *2 +1 ,-1));
         
-      return  solve(nums,target ,0 , n);
+      return  solve(nums,target ,0 , n ,dp, sum);
         
     }
 
-    int solve(vector <int>& nums , int target , int ind ,int n){
-
+    int solve(vector <int>& nums , int target , int ind ,int n , vector <vector<int>>&dp , int offset){
+       
+       if(target < -offset || target > offset)return 0;
         if(ind == n)return target == 0 ;
         if(ind > n)return 0 ;
 
-        int plus = solve(nums, target + nums[ind] , ind +1 ,n);
-        int minus = solve(nums,target - nums[ind], ind +1 , n);
-        return plus + minus ;
+        if(dp[ind][target + offset] != -1)return dp[ind][target + offset] ;
+
+        int plus = solve(nums, target + nums[ind] , ind +1 ,n,dp,offset);
+        int minus = solve(nums,target - nums[ind], ind +1 , n,dp,offset);
+        return dp[ind][target + offset] =  plus + minus ;
     }
 };
