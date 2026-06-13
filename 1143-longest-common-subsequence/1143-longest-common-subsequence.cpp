@@ -3,7 +3,7 @@ public:
     int longestCommonSubsequence(string text1, string text2) {
         int m = text1.size();
         int n = text2.size();
-        vector <vector <int>> dp(m+ 1 , vector <int> (n+1 ,-1) );
+        vector <vector <int>> dp(m , vector <int> (n ,-1) );
        return solve(text1 , text2 , m-1 ,n-1 , dp);
 
         
