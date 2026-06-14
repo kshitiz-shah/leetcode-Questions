@@ -2,30 +2,27 @@ class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
 
-        
-        int ans = solve(nums, k) - solve(nums, k-1);
-        return ans ;
-    }
-
-    int solve(vector<int>& nums, int k){
-        if(k < 0)return 0;
+        unordered_map <int,int> mpp ;
 
         int left = 0 ;
-        int right = 0 ;
-        int ans = 0 ;
-        int oddcount = 0 ;
+        int right = 0;
+        int prefix = 0;
+        mpp[0] =1 ;
+        int ans= 0;
 
         while(right < nums.size()){
 
-            if(nums[right] % 2 == 1)oddcount++;
+            prefix += nums[right]%2 ;
 
-            while(oddcount > k){
-                if(nums[left]%2 == 1)oddcount--;
-                left++;
-            }
-            ans += right - left +1 ;
-            right++;
+            int more = prefix - k ;
+
+           if( mpp.find(more) != mpp.end())ans += mpp[more];
+
+           mpp[prefix]++ ;
+           right++ ;
+           
         }
         return ans ;
+        
     }
 };
