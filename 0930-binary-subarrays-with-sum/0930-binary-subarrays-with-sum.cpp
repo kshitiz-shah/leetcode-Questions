@@ -1,28 +1,29 @@
 class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
+           int ans =   solve(nums , goal) - solve(nums, goal -1);
+       return ans ;
+    }
 
-        unordered_map <int , int>mpp;
-        int prefix_sum = 0 ;
-        mpp[0] =1 ;
-        int ans = 0 ;
+    int solve(vector<int>& nums, int goal){
+        if(goal < 0)return 0;
+        int left = 0 ;
+        int right = 0 ;
+        int ans = 0;
+        int sum = 0 ;
 
-        for(int i = 0 ;i <nums.size() ;i++){
+        while(right < nums.size()){
+            sum += nums[right];
 
-             prefix_sum  += nums[i];
-             int remove = prefix_sum - goal ;
-
-             if(mpp.find(remove) != mpp.end())ans += mpp[remove];
-
-             mpp[prefix_sum]++ ;
-
-
+            while(sum > goal){
+                sum -= nums[left];
+                left++;
+            }
+            ans += (right -left + 1);
+            right++ ;
 
         }
-        return ans ;
-        
+      return ans ;
 
-        
-        
     }
 };
