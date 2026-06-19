@@ -12,7 +12,7 @@ public:
 
         
         if( i != s.size() && j == p.size()) return false ;
-        if( i == s.size() && j == p.size()) return true ;
+        // if( i == s.size() && j == p.size()) return true ;
 
         if( i == s.size()){
             while(j < p.size()){
@@ -31,7 +31,7 @@ public:
         }
         
         if(p[j] == '*'){
-            return dp[i][j] = (solve(s ,p ,  i + 1, j ,dp) || solve(s ,p ,  i , j +1,dp));
+            return dp[i][j] = (solve(s ,p ,  i + 1, j ,dp) || solve(s ,p ,  i , j +1,dp) );
         }
 
         return dp[i][j] = false ;
