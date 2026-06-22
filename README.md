@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1319-unique-number-of-occurrences](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Design
 |  |
 | ------- |
