@@ -2,44 +2,68 @@ class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
 
+        bool checkrow = false;
+        bool checkcol = false;
+
         int r = matrix.size();
-        int c= matrix[0].size();
+        int c = matrix[0].size();
 
-        vector <vector <int>> temp(r , vector <int> (c , -1));
-        for(int i = 0 ;i < r ;i++){
-            for(int j = 0 ; j < c;j++){
-                 temp[i][j] = matrix[i][j];
+        // check first row
+        for(int i = 0; i < c; i++){
+            if(matrix[0][i] == 0){
+                checkrow = true;
+                break;
             }
         }
 
-         for(int i = 0 ;i < r ;i++){
-            for(int j = 0 ; j < c;j++){
-                 if(matrix[i][j] == 0){
-                    
-                int k = 0 ;
-                while( k < r){
-                    temp[k][j] = 0 ;
-                    k++;
+        // check first column
+        for(int i = 0; i < r; i++){
+            if(matrix[i][0] == 0){
+                checkcol = true;
+                break;
+            }
+        }
+
+        // mark
+        for(int i = 1; i < r; i++){
+            for(int j = 1; j < c; j++){
+                if(matrix[i][j] == 0){
+                    matrix[0][j] = 0;
+                    matrix[i][0] = 0;
                 }
-                k =0;
-                 while( k < c){
-                    temp[i][k] = 0 ;
-                    k++ ;
+            }
+        }
+
+        // set rows to zero
+        for(int i = 1; i < r; i++){
+            if(matrix[i][0] == 0){
+                for(int j = 0; j < c; j++){
+                    matrix[i][j] = 0;
                 }
-
-                 }
             }
         }
 
-        
-
-      for(int i = 0 ;i < r ;i++){
-            for(int j = 0 ; j < c;j++){
-                 matrix[i][j] = temp[i][j] ;
+        // set cols to zero
+        for(int j = 1; j < c; j++){
+            if(matrix[0][j] == 0){
+                for(int i = 0; i < r; i++){
+                    matrix[i][j] = 0;
+                }
             }
         }
-  
 
-        
+        // first row
+        if(checkrow){
+            for(int i = 0; i < c; i++){
+                matrix[0][i] = 0;
+            }
+        }
+
+        // first column
+        if(checkcol){
+            for(int i = 0; i < r; i++){
+                matrix[i][0] = 0;
+            }
+        }
     }
 };
