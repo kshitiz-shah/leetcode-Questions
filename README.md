@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -717,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -744,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
