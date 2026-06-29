@@ -3,26 +3,23 @@ public:
     int minimumTotal(vector<vector<int>>& triangle) {
 
         int r = triangle.size();
-        vector<vector<int>> dp(r, vector<int>(r, INT_MAX));
+        int c = 1;
+      vector <vector <int>> dp(r , vector <int>(r , INT_MAX));
+      return  solve(0 ,0 ,r,c , triangle ,dp);
 
-        return solve(0, 0, triangle, dp);
+
     }
+    int solve(int i ,int  j, int r ,int c , vector<vector<int>>& matrix , 
+     vector <vector <int>> &dp){
 
-    int solve(int i, int j, vector<vector<int>>& triangle,
-              vector<vector<int>>& dp) {
+        if(i == r-1 ) return matrix[i][j];
+        if(i == r || j == c) return 1e9 ;
+        if(dp[i][j] != INT_MAX)return dp[i][j];
 
-        if (i == triangle.size() - 1)
-            return triangle[i][j];
+        int bottom = matrix[i][j] + solve(i +1 , j , r , c+1 , matrix ,dp);
+        int bottomright = matrix[i][j] + solve(i +1 , j+1 , r , c+1 , matrix,dp);
 
-        if (dp[i][j] != INT_MAX)
-            return dp[i][j];
-
-        int down = triangle[i][j] +
-                   solve(i + 1, j, triangle, dp);
-
-        int diagonal = triangle[i][j] +
-                       solve(i + 1, j + 1, triangle, dp);
-
-        return dp[i][j] = min(down, diagonal);
+        return dp[i][j]= min(bottom ,bottomright);
+        
     }
 };
