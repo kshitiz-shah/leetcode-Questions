@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2058-concatenation-of-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1894-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2129-capitalize-the-title](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2129-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2470-removing-stars-from-a-string) |
