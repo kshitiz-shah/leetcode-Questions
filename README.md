@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1063-best-sightseeing-pair](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1833-maximum-ice-cream-bars](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1833-maximum-ice-cream-bars) |
