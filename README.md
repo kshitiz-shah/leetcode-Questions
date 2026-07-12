@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0801-is-graph-bipartite) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -827,4 +830,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
