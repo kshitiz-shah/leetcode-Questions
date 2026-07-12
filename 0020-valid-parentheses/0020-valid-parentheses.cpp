@@ -8,11 +8,11 @@ public:
         if(st.empty() && (x == '}' || x == ']' || x == ')'))return false ;
 
         else if (x == '(' || x == '{' || x == '[')st.push(x);
-        else if (x == ')' && st.top() != '(' || x == '}' && st.top() != '{' ||
-        x == ']' && st.top() != '['  ) return false;
+       
 
         else if (x == ')' && st.top() == '(' || x == '}' && st.top() == '{' ||
         x == ']' && st.top() == '['  ) st.pop();
+        else return false ;
     }
     if(!st.empty())return false ;
 
