@@ -2,29 +2,32 @@ class Solution {
 public:
     bool isPalindrome(string s) {
 
-        string container = "";
+        string  k = "";
 
-        for(char c : s){
-            
-            if(c >= 'A' && c <= 'Z'  ){
-                container += tolower(c);
-            }
-            else if (c >= 'a' && c <= 'z'){
-                container += c;
-            }
-            else if(c >= '0' && c <= '9'){
-                container += c;
+        for(int i = 0 ; i< s.size() ;i++){
+           
+           if(s[i] >= 'a' && s[i] <= 'z' ||  s[i] >='0' && s[i] <= '9'  ){
+            k += s[i];
+           }
+           else if(s[i] >= 'A' && s[i] <= 'Z'){
+          char x =  tolower(s[i]);
+          k += x ;
 
-            }
+           }
+
+
         }
-        int k = container.size()-1;
-        int i = 0;
-       while(i <= k){
-            if(container[i++] != container[k--])return false ;
+        
 
+        int left = 0 ;
+        int right = k.size()-1 ;
+
+        while(left <= right){
+            if(k[left] != k[right])return false;
+            left++;
+            right-- ;
         }
         return true ;
-
         
     }
 };
