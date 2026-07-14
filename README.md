@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0904-fruit-into-baskets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
