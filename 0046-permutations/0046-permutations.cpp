@@ -19,18 +19,17 @@ public:
             return ;
         }
 
-        for(int i = 0 ; i< nums.size();i++){
-            if(visited[i])continue;
-           visited[i]=true ;
+        for(int i = 0 ;i < nums.size();i++){
+
+            if(visited[i] == true)continue ;
+
+            visited[i] = true ;
             temp.push_back(nums[i]);
+            solve(ans , temp , nums,visited);
 
-           solve(  ans ,  temp , nums , visited);
-
-          temp.pop_back();
-            visited[i]= false ;
-
+            temp.pop_back();
+            visited[i] = false ;
         }
-
 
 
 
