@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2126-destroying-asteroids) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
