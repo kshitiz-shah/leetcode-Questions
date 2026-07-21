@@ -12,19 +12,23 @@
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        if(!root)return false ;
+        if(!root)return true ;
 
-        return dfs(root->left ,root->right);
+       return  solve(root->left , root->right);
         
     }
-    bool dfs(TreeNode* p ,TreeNode* q){
-        if(p == nullptr && q == nullptr)return true ;
-       
-        if(p == nullptr || q == nullptr)return false ;
+    bool solve( TreeNode* p , TreeNode* q){
 
-         if(p->val != q->val)return false ;
+        if( !p && !q)return true ;
+          if( !p || !q)return false ;
 
-        return dfs(p->left , q->right)&& dfs(q->left ,p->right);
+           if( p->val  != q->val ) return false ;
+
+           return solve(p->left ,q->right) && solve(p->right ,q->left) ;
+
+
+
+
 
 
     }
