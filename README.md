@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
