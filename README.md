@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0217-contains-duplicate) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0206-reverse-linked-list) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [2169-simple-bank-system](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2169-simple-bank-system) |
@@ -907,4 +910,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
