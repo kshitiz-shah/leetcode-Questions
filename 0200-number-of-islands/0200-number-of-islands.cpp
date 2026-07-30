@@ -2,40 +2,35 @@ class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
 
-        int row = grid.size();
-        int col = grid[0].size();
-       vector<vector<int>> check(row, vector<int>(col, 0));
-        int count = 0 ;
+         int r = grid.size();
+        int c = grid[0].size();
 
-        for(int i = 0 ;i < row;i++){
-            for(int j = 0 ; j< col;j++){
+        vector <vector<int>> vis(r , vector<int>(c ,0));
+        int count = 0;
 
-                if(check[i][j] == 0 && grid[i][j] == '1'){
+
+        for(int i = 0; i< r ;i++ ){
+            for(int j = 0 ;j < c ;j++){
+                if(grid[i][j] == '1' && vis[i][j] == 0){
                     count++;
-                      solve(i ,j ,row ,col , check ,grid );
-
-                }          
+                    dfs(grid ,vis ,i ,j , r,c );
+                }
 
             }
         }
-
-        return count;
-
-    
-        
+        return count ;
     }
-    void solve(int i ,int j ,int row  , int col , vector<vector<int >>& check , vector<vector<char >>&grid ){
+    void dfs(vector<vector<char>> &grid , vector <vector<int>> &vis,int i , int j , int r ,int c){
+        if(i == r || i < 0 || j == c || j < 0 || vis[i][j]==1|| grid[i][j] == '0')return ;
 
-       if(i < 0 || j < 0 || i >= row || j >= col || grid[i][j] == '0' || check[i][j] ==1)return ;
+        vis[i][j]=1;
 
-        check[i][j] = 1 ;
+        dfs(grid ,vis ,i+1 ,j , r,c );
+        dfs(grid ,vis ,i ,j+1 , r,c );
+        dfs(grid ,vis ,i-1 ,j , r,c );
+        dfs(grid ,vis ,i ,j-1 , r,c );
 
-        solve(i +1, j ,row ,col , check ,grid );
-        solve(i -1, j ,row ,col , check ,grid );
-        solve(i , j  +1 ,row ,col , check ,grid );
-         solve(i , j   -1 ,row ,col , check ,grid );
 
-         return ;
 
 
 
