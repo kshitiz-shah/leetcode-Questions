@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1037-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1143-longest-common-subsequence) |
@@ -914,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0146-lru-cache) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
