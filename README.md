@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0518-coin-change-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1037-valid-boomerang) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0518-coin-change-ii) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 ## Segment Tree
 |  |
 | ------- |
@@ -920,5 +924,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
