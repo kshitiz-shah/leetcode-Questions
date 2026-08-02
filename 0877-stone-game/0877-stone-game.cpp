@@ -17,7 +17,7 @@ public:
         int leftmax = piles[left] - solve(left +1 , right, piles,dp) ;
         int rightmax = piles[right] -solve(left , right -1, piles,dp) ;
 
-        return dp[left][right] = max(left ,right);
+        return dp[left][right] = max(leftmax ,rightmax);
 
         
     }
