@@ -2,24 +2,31 @@ class Solution {
 public:
     bool predictTheWinner(vector<int>& nums) {
 
-   int n = nums.size();
+        int left = 0 ;
+        int right = nums.size()-1;
+        bool aliceturn = true ;
 
-      vector<vector<int>> dp(n ,vector<int>(n,-1)) ;
-
-       return solve(0 , n-1 , nums,dp) >= 0 ? true:false;
-
+      int ans =  solve(left , right , nums,aliceturn);
+        if(ans >= 0)return true ;
+        return false ;
 
         
     }
-    int solve(int left , int right , vector <int> &piles ,vector<vector<int>> &dp){
+    long long solve(int left ,int right, vector <int> & nums, bool aliceturn){
+
         if(left > right)return 0;
-        if(dp[left][right] != -1)return dp[left][right];
+       long long ans = 0 ;
+        if(aliceturn){
+            ans +=  max(nums[left] + solve(left+ 1 , right , nums,false),
+             nums[right] + solve(left ,right-1 , nums ,false));
 
-        int leftmax = piles[left] - solve(left +1 , right, piles,dp) ;
-        int rightmax = piles[right] -solve(left , right -1, piles,dp) ;
+        }
+        else{
+            ans -= max(nums[left] + solve(left+ 1 , right , nums,false),
+             nums[right] + solve(left ,right-1 , nums ,false));
+        }
 
-        return dp[left][right] = max(leftmax ,rightmax);
+        return ans ;
 
-        
     }
 };
