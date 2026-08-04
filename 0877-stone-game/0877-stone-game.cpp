@@ -1,30 +1,36 @@
 class Solution {
 public:
-    bool stoneGame(vector<int>& piles) {
+    bool stoneGame(vector<int>& nums) {
 
-        int left = 0 ;
-        int right =  piles.size()-1 ;
-          int n = piles.size();
-        vector <vector <int>> dp(n , vector <int> (n ,INT_MIN));
-      
-       int k =  solve(true , left ,right , n, piles ,dp);
-        if(k > 0)return true ;
+       int left = 0 ;
+        int right = nums.size()-1;
+        bool aliceturn = true ;
+        int n = nums.size();
+
+        vector <vector <int>> dp(n , vector <int> (n,-1));
+
+
+      int ans =  solve(left , right , nums,aliceturn,dp);
+        if(ans >= 0)return true ;
         return false ;
+
         
     }
-    int solve(bool aliceturn , int left , int right , int n , vector<int>& piles,
-     vector <vector <int>> &dp){
-         if(left > right)return 0; 
-         int anx = 0 ;
-         if(dp[left][right] != INT_MIN)return dp[left][right];
+    long long solve(int left ,int right, vector <int> & nums, bool aliceturn, vector <vector <int>> &dp){
 
-         if(aliceturn){
-            anx += max(piles[left] + solve(false, left+1 ,right , n, piles,dp) ,piles[right] + solve(false, left ,right-1 , n, piles,dp)) ;
-            
-         }else{
-            anx -= min(anx -= piles[left] + solve(true, left+1 ,right , n, piles,dp) , anx -= piles[right] + solve(true, left ,right-1 , n, piles,dp));
-            
-         }
-         return dp[left][right] = anx ;
+        if(left > right)return 0;
+        if(dp[left][right]!= -1)return dp[left][right];
+       long long ans = 0 ;
+        if(aliceturn){
+            ans +=  max(nums[left] + solve(left+ 1 , right , nums,false,dp),
+             nums[right] + solve(left ,right-1 , nums ,false,dp));
+
+        }
+        else{
+            ans -= max(nums[left] + solve(left+ 1 , right , nums,false,dp),
+             nums[right] + solve(left ,right-1 , nums ,false,dp));
+        }
+
+        return dp[left][right] = ans ;
     }
 };
