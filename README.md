@@ -942,12 +942,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1406-stone-game-iii) |
