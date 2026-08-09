@@ -1,8 +1,7 @@
 class Solution {
 public:
     int stoneGameII(vector<int>& piles) {
-
-         int n = piles.size();
+        int n = piles.size();
 
        
      
@@ -70,7 +69,6 @@ public:
         }
 
         return dp[aliceTurn][index][M] = ans;
-    }
         
-    
+    }
 };
