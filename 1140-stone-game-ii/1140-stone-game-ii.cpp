@@ -1,74 +1,40 @@
 class Solution {
 public:
     int stoneGameII(vector<int>& piles) {
-        int n = piles.size();
 
-       
+        int n = piles.size();
+        bool aliceturn = true ;
+        vector<vector<vector<int>>> dp(n+1 , vector<vector<int>>(n+1 , vector<int>(2,-1)));
+
+       return solve(0 , n , piles ,1 ,true,dp);
+
      
 
-        
-        vector<vector<vector<int>>> dp(
-            2,
-            vector<vector<int>>(n, vector<int>(n + 1, INT_MIN))
-        );
 
-        return solve(true, 0, 1, piles, dp);
+
     }
+    int solve(int ind , int n , vector <int> &piles, int M ,bool aliceturn , vector<vector<vector<int>>> &dp){
 
-    int solve(bool aliceTurn,
-              int index,
-              int M,
-              vector<int>& piles,
-             
-              vector<vector<vector<int>>>& dp) {
+        if(ind >= n)return 0 ;
+        int turn = (aliceturn)?1:0 ;
+        if(dp[ind][M][turn] != -1)return dp[ind][M][turn];
+       
+         int totalstones = (aliceturn)? -1 : INT_MAX ;
+         int stones = 0 ;
+        for(int X = 1 ;ind + X <= n &&  X <= 2*M ; X++){
+            stones += piles[ind + X -1];
 
-        if (index >= piles.size())
-            return 0;
+            if(aliceturn){
+                totalstones = max(totalstones , stones + solve(ind + X , n , piles , max(M, X), false , dp ));
 
-        if (dp[aliceTurn][index][M] != INT_MIN)
-            return dp[aliceTurn][index][M];
-
-        int ans;
-
-        if (aliceTurn) {
-
-            ans = INT_MIN;
-            int stones = 0;
-
-            for (int X = 1; X <= 2 * M && index + X <= piles.size(); X++) {
-
-                stones += piles[index + X - 1];
-
-                ans = max(
-                    ans,
-                    stones + solve(false,
-                                   index + X,
-                                   max(M, X),
-                                   piles,
-                                   
-                                   dp)
-                );
-            }
-
-        } else {
-
-            ans = INT_MAX;
-
-            for (int X = 1; X <= 2 * M && index + X <= piles.size(); X++) {
-
-                ans = min(
-                    ans,
-                    solve(true,
-                          index + X,
-                          max(M, X),
-                          piles,
-                         
-                          dp)
-                );
-            }
-        }
-
-        return dp[aliceTurn][index][M] = ans;
         
+            }else{
+                totalstones = min(totalstones ,solve( ind +X , n , piles , max(M, X), true,dp ));
+
+            }
+
+
+        }
+      return dp[ind][M][turn] = totalstones ;
     }
 };
