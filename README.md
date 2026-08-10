@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1925-count-square-sum-triples) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -968,8 +972,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
