@@ -1,36 +1,29 @@
 class Solution {
 public:
-    bool stoneGame(vector<int>& nums) {
+    bool stoneGame(vector<int>& piles) {
+        int right = piles.size()-1;
 
-       int left = 0 ;
-        int right = nums.size()-1;
-        bool aliceturn = true ;
-        int n = nums.size();
-
-        vector <vector <int>> dp(n , vector <int> (n,-1));
-
-
-      int ans =  solve(left , right , nums,aliceturn,dp);
-        if(ans >= 0)return true ;
-        return false ;
-
+          bool aliceturn=  true ;
+    int k = solve(0 , right , piles , true);
+    if(k >= 0 )return true ;
+    return false ;
         
     }
-    long long solve(int left ,int right, vector <int> & nums, bool aliceturn, vector <vector <int>> &dp){
 
-        if(left > right)return 0;
-        if(dp[left][right]!= -1)return dp[left][right];
-       long long ans = 0 ;
+    int solve(int left , int right , vector <int> &piles , bool aliceturn){
+
+        if(left < right)return 0 ;
+        int ans = 0 ;
         if(aliceturn){
-            ans +=  max(nums[left] + solve(left+ 1 , right , nums,false,dp),
-             nums[right] + solve(left ,right-1 , nums ,false,dp));
+            ans += max(ans + solve(left +1 , right , piles , false) , ans + (left , right -1 , piles, false));
+
+        }else{
+            ans -= max(ans - solve(left +1 , right , piles , false) , ans -(left , right -1 , piles, false) );
+
 
         }
-        else{
-            ans -= max(nums[left] + solve(left+ 1 , right , nums,false,dp),
-             nums[right] + solve(left ,right-1 , nums ,false,dp));
-        }
+        return ans ;
 
-        return dp[left][right] = ans ;
+
     }
 };
