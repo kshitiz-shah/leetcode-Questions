@@ -1,28 +1,27 @@
 class Solution {
 public:
-    bool predictTheWinner(vector<int>& piles) {
-          int right = piles.size()-1;
+    bool predictTheWinner(vector<int>& nums) {
 
-          bool aliceturn=  true ;
-    int k = solve(0 , right , piles , true);
-    if(k >= 0 )return true ;
-    return false ;
+        int n = nums.size();
+        bool aliceturn = true ;
+
+      if(  solve(0 , n-1 , nums ,aliceturn) >= 0 ) return true;
+      return false;
+
+
         
     }
+    int solve(int left , int right , vector <int> &nums, bool aliceturn){
 
-    int solve(int left , int right , vector <int> &piles , bool aliceturn){
+        if(left > right)return 0; 
 
-        if(left > right)return 0 ;
-        int ans = 0 ;
         if(aliceturn){
-            ans += max(piles[left] + solve(left +1 , right , piles , false) , piles[right] + solve(left , right -1 , piles, false));
-
+            return max(nums[left] + solve(left +1 , right , nums, false) , nums[right] + solve(left , right -1 ,nums, false));
         }else{
-            ans += min(-piles[left] + solve(left +1 , right , piles , true) , -piles[right] + solve(left , right -1 , piles, true) );
-
-
+            return min( - nums[left] + solve(left+1 , right , nums, true) , -nums[right]+ solve(left ,right -1 ,nums ,true));
         }
-        return ans ;
-        
+
+
+
     }
 };
