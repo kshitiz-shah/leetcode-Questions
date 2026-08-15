@@ -1,42 +1,51 @@
 class Solution {
 public:
-    void solve(vector<vector<char>>& mat) {
-          int r = mat.size();
-       int c = mat[0].size();
+    void solve(vector<vector<char>>& board) {
+        int r = board.size();
+        int c = board[0].size();
 
-       vector<vector<char>> vis(r,vector<char>(c,'X'));
+        vector<vector <int>> vis(r ,vector <int>(c ,0));
 
-       for(int i=0;i< r;i++){
-        for(int j=0;j< c;j++){
-            if( i ==0 || j ==0 || i == r-1 || j == c-1 ){
-                if(mat[i][j] == 'O' && vis[i][j] == 'X'){
-                    dfs(i,j,vis,mat);
+        for(int i = 0 ; i < r ;i++){
+            for(int j = 0 ; j < c ;j++){
+
+                if(i ==0 || i == r-1 || j== 0 || j == c-1 ){
+                    if(vis[i][j] == 0 && board[i][j] == 'O'){
+                        
+                        solve(i , j , vis , board);
+                    }
                 }
+
             }
         }
-       }
-     for(int i=0;i< r;i++){
-        for(int j=0;j<c;j++){
-            mat[i][j] = vis[i][j];
+
+          for(int i = 0 ; i < r ;i++){
+            for(int j = 0 ; j < c ;j++){
+
+               if(board[i][j] == 'O' && vis[i][j] == 0){
+                board[i][j] = 'X';
+               }
+
+            }
         }
-     }
+
+
+       
+
         
+    
     }
-      void dfs(int i ,int j ,vector<vector<char>> &vis ,vector<vector<char>> &mat){
-            
-            int r = mat.size();
-             int c = mat[0].size();
+    void solve(int i , int j , vector <vector <int>> &vis , vector <vector <char>> &board){
 
-             if(i < 0 || j <0 || i>= r ||j >=c || mat[i][j] == 'X' || vis[i][j] == 'O'){
-                return;
-             }
+        if(i < 0 || j < 0 || i >= board.size() || j >= board[0].size() || vis[i][j]==1 || board[i][j]== 'X')return ;
 
-             vis[i][j]= 'O';
+        vis[i][j] = 1 ;
+         solve(i +1 ,j ,vis ,board);
+         solve(i-1, j ,vis ,board);
+         solve(i , j-1 ,vis,board);
+         solve(i , j+1 ,vis ,board );
 
-             dfs(i+1,j,vis ,mat);
-             dfs(i-1,j,vis ,mat);
-             dfs(i,j+1,vis ,mat);
-             dfs(i,j-1,vis ,mat);
-             
-      }
+
+
+    }
 };
