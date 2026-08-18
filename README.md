@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3429-special-array-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3429-special-array-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
