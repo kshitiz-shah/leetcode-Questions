@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3790-fruits-into-baskets-ii) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
