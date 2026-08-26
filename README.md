@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0904-fruit-into-baskets) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
