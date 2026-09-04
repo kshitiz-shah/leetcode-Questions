@@ -13,8 +13,10 @@ public:
     ListNode* reverseList(ListNode* head) {
 
         if(!head)return nullptr ;
-        ListNode* temp = head ;
+
         ListNode* prev = nullptr ;
+
+        ListNode* temp = head ;
 
         while(temp != nullptr){
             ListNode* curr = temp->next ;
@@ -22,10 +24,8 @@ public:
 
             prev = temp ;
             temp = curr ;
-
-
-
         }
+
         return prev ;
         
     }
