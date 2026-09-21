@@ -1,47 +1,54 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+    bool canFinish(int N , vector<vector<int>>& arr) {
+        vector <int> indegree(N, 0);
 
-        vector<vector<int>> adj(numCourses) ;
-        int V = numCourses ;
+        vector <vector <int>> adj(N) ;
 
-        for(int i =0 ;i < prerequisites.size() ;i++){
-            int u =  prerequisites[i][0];
-            int v=  prerequisites[i][1];
-
+        for(int i = 0 ; i < arr.size();i++){
+            int u = arr[i][0];
+            int v = arr[i][1];
             adj[u].push_back(v);
         }
 
-      
-        vector <int> vis(V, 0);
-        vector <int>pathsum(V, 0);
-        for(int i =0 ;i < V ;i++){
+  
 
-            if(vis[i] ==0){
-             if  ( bfs(i , adj ,vis, pathsum) ) return false;
+        for(int i = 0 ;i <N; i++ ){
+
+            for(int x: adj[i]){
+                indegree[x]++;
+            }
+        }
+        vector <int> ans ;
+        queue <int> q ;
+        for(int i = 0; i < N; i++){
+            if(indegree[i] == 0){
+                q.push(i);
+                ans.push_back(i);
+            }
+        }
+
+        while(!q.empty()){
+
+            int node = q.front();
+            q.pop();
+
+            for( int x: adj[node]){
+                indegree[x]-- ;
+                if(indegree[x] ==0 ){
+                    q.push(x);
+                    ans.push_back(x);
+                }
             }
 
         }
 
 
-    return true;
-        
-    }
-
-    bool bfs(int node , vector<vector<int>> &adj ,vector <int> &vis  , vector <int> &pathsum){
-
-        vis[node] =1 ;
-        pathsum[node] =1 ;
-
-        for(auto x : adj[node]){
-            if(vis[x] == 0){
-              if(  bfs(x , adj , vis , pathsum) == true) return true ;
-            }else{
-                if(pathsum[x] == 1)return true ;
-            }
-        }
-        pathsum[node] = 0;
+        if(ans.size() == N)return true ;
         return false ;
-       
+
+
+
+        
     }
 };
