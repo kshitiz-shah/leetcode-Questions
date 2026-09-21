@@ -8,7 +8,7 @@ public:
         for(int i = 0 ; i < arr.size();i++){
             int u = arr[i][0];
             int v = arr[i][1];
-            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
   
@@ -42,7 +42,7 @@ public:
             }
 
         }
-        reverse(ans.begin(),ans.end());
+        // reverse(ans.begin(),ans.end());
 
       vector <int> temp ;
         if(ans.size() != N)return temp;
