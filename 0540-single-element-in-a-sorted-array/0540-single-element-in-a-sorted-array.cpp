@@ -23,7 +23,7 @@ public:
                 }
             }else{
                  if( nums[mid] == nums[mid+1]){
-                    low = mid +1;
+                    low = mid +2;
 
                 }else{
                    high = mid -1 ;
