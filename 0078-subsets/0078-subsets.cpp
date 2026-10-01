@@ -7,7 +7,7 @@ public:
         solve(nums, 0 ,ans, temp );
         return ans ;
     }
-    void solve(vector <int> & nums , int ind ,vector <vector <int>> &ans ,  vector<int> temp  ){
+    void solve(vector <int> & nums , int ind ,vector <vector <int>> &ans ,  vector<int> &temp  ){
         if(ind == nums.size()){
             ans.push_back(temp);
             return ;
