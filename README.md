@@ -1052,4 +1052,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0207-course-schedule) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kshitiz-shah/leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
