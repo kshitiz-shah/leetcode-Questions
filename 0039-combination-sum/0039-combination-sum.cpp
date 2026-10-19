@@ -2,36 +2,37 @@ class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
 
+          set<vector<int>> ans ;
 
-        vector <vector <int>> ans;
         vector <int> temp ;
 
-         dfs(ans , temp , candidates ,target , 0);
-        return ans ;
+        solve(candidates , target , ans , temp , 0);
+       
+       vector <vector<int>> final_ans(ans.begin(), ans.end());
+        return final_ans ;
+
         
+
+
+
     }
-    void dfs(vector<vector <int>> &ans , vector <int> &temp , vector <int> &candidates , int target ,int ind){
+    void solve(vector<int>& candidates, int target , set<vector<int>> &ans , vector <int> &temp , int i){
 
+         
 
-        if ( target == 0){
-            ans.push_back(temp);
+        if(target == 0){
+           
+            ans.insert(temp);
             return ;
         }
+        if( i == candidates.size() ||  target < 0)return ;
 
-        if(target < 0 || ind == candidates.size()){
-            return;
-        }
-        temp.push_back(candidates[ind]);
-        dfs(ans , temp , candidates ,target - candidates[ind] , ind );
-        temp.pop_back();
-         dfs(ans , temp , candidates ,target , ind  +1 );
-
-         return ;
+         temp.push_back(candidates[i]);
+         solve(candidates , target- candidates[i] , ans , temp , i );
+         temp.pop_back();
+         solve(candidates , target , ans , temp , i +1);
 
 
-
-
-
-
+        
     }
 };
